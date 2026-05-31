@@ -1,2 +1,20 @@
-# java-dsa
-Collection of Data Structures and Algorithms solutions in Java, focused on problem solving and competitive programming.
+# Java DSA
+
+This repository contains my solutions to Data Structures and Algorithms problems in Java.
+
+## Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+
+## Platforms
+- Codeforces
+- LeetCode
+
+## Language
+- Java
